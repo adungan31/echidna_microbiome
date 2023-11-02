@@ -1,0 +1,198 @@
+SampleID	Sample	SampleNo	Organism	Date_collected	ExtDate	ExtBy	PlateNo	PlateWell	Type	Zoo	F	R	DNA_Extraction_Weight_g	Gender	Stage	Ext_Blank	PCR_Neg	Keep	Mixed	OH_band	In_analysis
+BY038_F09	BY038	38	Booniny	9-Aug-21	20/12/2021	IB	2	A04	faeces	Currumbin	F09	R04	0.25	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BY039_F12	BY039	39	Booniny	10-Aug-21	21/12/2021	IB	2	D12	faeces	Currumbin	F12	R12	0.33	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BY040_F09	BY040	40	Booniny	12-Aug-21	20/12/2021	IB	2	A05	faeces	Currumbin	F09	R05	0.41	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BY041_F09	BY041	41	Booniny	14-Aug-21	20/12/2021	AD	2	A06	faeces	Currumbin	F09	R06	0.16	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BG054_F05	BG054	54	Bergu	12-Jun-21	14/12/2021	IB	1	E11	faeces	Currumbin	F05	R11	0.25	Male	Male	FALSE	FALSE	No	Yes	N	FALSE
+BY076_F10	BY076	76	Booniny	3-Oct-21	20/12/2021	IB	2	B06	faeces	Currumbin	F10	R06	0.24	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BY077_F10	BY077	77	Booniny	5-Oct-21	20/12/2021	AD	2	B07	faeces	Currumbin	F10	R07	0.14	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+MN075_F05	MN075	75	Mono	4-Sep-21	13/12/2021	IB	1	E02	faeces	Currumbin	F05	R02	0.24	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+MN077_F05	MN077	77	Mono	6-Sep-21	13/12/2021	IB	1	E03	faeces	Currumbin	F05	R03	0.27	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+MN078_F05	MN078	78	Mono	7-Sep-21	13/12/2021	IB	1	E04	faeces	Currumbin	F05	R04	0.21	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TG033_F14	TG033	33	Taggle	29-Jul-21	4/01/2022	IB	2	F07	faeces	Currumbin	F14	R07	0.36	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TG035_F14	TG035	35	Taggle	31-Jul-21	4/01/2022	IB	2	F08	faeces	Currumbin	F14	R08	0.14	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TG036_F14	TG036	36	Taggle	1-Aug-21	4/01/2022	IB	2	F09	faeces	Currumbin	F14	R09	0.17	Female	Late Gestation	FALSE	FALSE	Yes	No	F	TRUE
+TG064_F16	TG064	64	Taggle	14-Sep-21	4/01/2022	IB	2	H01	faeces	Currumbin	F16	R01	0.26	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TG065_F16	TG065	65	Taggle	15-Sep-21	4/01/2022	IB	2	H02	faeces	Currumbin	F16	R02	0.23	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TG066_F16	TG066	66	Taggle	16-Sep-21	4/01/2022	IB	2	H03	faeces	Currumbin	F16	R03	0.15	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TY039_F02	TY039	39	Tachy	4-Aug-21	30/11/2021	AD	1	B07	faeces	Currumbin	F02	R07	0.44	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TY041_F02	TY041	41	Tachy	6-Aug-21	30/11/2021	AD	1	B08	faeces	Currumbin	F02	R08	0.34	Female	Late Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BY028_F08	BY028	28	Booniny	28-Jul-21	20/12/2021	IB	1	H09	faeces	Currumbin	F08	R09	0.12	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BY029_F08	BY029	29	Booniny	29-Jul-21	20/12/2021	IB	1	H10	faeces	Currumbin	F08	R10	0.4	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY030_F08	BY030	30	Booniny	30-Jul-21	20/12/2021	IB	1	H11	faeces	Currumbin	F08	R11	NA	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY031_F12	BY031	31	Booniny	1-Aug-21	21/12/2021	IB	2	D08	faeces	Currumbin	F12	R08	0.27	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY032_F12	BY032	32	Booniny	2-Aug-21	21/12/2021	IB	2	D09	faeces	Currumbin	F12	R09	0.21	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BY033_F08	BY033	33	Booniny	3-Aug-21	20/12/2021	IB	1	H08	faeces	Currumbin	F08	R08	0.29	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BY034_F12	BY034	34	Booniny	4-Aug-21	21/12/2021	IB	2	D10	faeces	Currumbin	F12	R10	0.17	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY035_F09	BY035	35	Booniny	5-Aug-21	20/12/2021	AD	2	A02	faeces	Currumbin	F09	R02	0.42	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY036_F09	BY036	36	Booniny	6-Aug-21	20/12/2021	IB	2	A03	faeces	Currumbin	F09	R03	0.23	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY037_F12	BY037	37	Booniny	8-Aug-21	21/12/2021	IB	2	D11	faeces	Currumbin	F12	R11	0.15	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY061_F13	BY061	61	Booniny	21-Sep-21	21/12/2021	IB	2	E04	faeces	Currumbin	F13	R04	0.16	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY064_F10	BY064	64	Booniny	22-Sep-21	20/12/2021	IB	2	B03	faeces	Currumbin	F10	R03	0.45	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY066_F13	BY066	66	Booniny	23-Sep-21	21/12/2021	IB	2	E05	faeces	Currumbin	F13	R05	0.25	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY068_F13	BY068	68	Booniny	25-Sep-21	21/12/2021	IB	2	E06	faeces	Currumbin	F13	R06	0.18	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY070_F10	BY070	70	Booniny	27-Sep-21	20/12/2021	AD	2	B04	faeces	Currumbin	F10	R04	0.43	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY072_F10	BY072	72	Booniny	29-Sep-21	20/12/2021	IB	2	B05	faeces	Currumbin	F10	R05	0.36	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY074_F13	BY074	74	Booniny	1-Oct-21	21/12/2021	IB	2	E07	faeces	Currumbin	F13	R07	0.29	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+MN062_F07	MN062	62	Mono	23-Aug-21	14/12/2021	IB	1	G03	faeces	Currumbin	F07	R03	0.28	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+MN064_F04	MN064	64	Mono	25-Aug-21	13/12/2021	IB	1	D10	faeces	Currumbin	F04	R10	0.23	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+MN066_F04	MN066	66	Mono	27-Aug-21	13/12/2021	IB	1	D11	faeces	Currumbin	F04	R11	0.25	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+MN069_F04	MN069	69	Mono	29-Aug-21	13/12/2021	IB	1	D12	faeces	Currumbin	F04	R12	0.2	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+MN071_F05	MN071	71	Mono	31-Aug-21	13/12/2021	IB	1	E01	faeces	Currumbin	F05	R01	0.23	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+MN073_F07	MN073	73	Mono	2-Sep-21	14/12/2021	IB	1	G04	faeces	Currumbin	F07	R04	0.24	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TG021_F14	TG021	21	Taggle	17-Jul-21	4/01/2022	IB	2	F02	faeces	Currumbin	F14	R02	0.31	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TG027_F14	TG027	27	Taggle	23-Jul-21	4/01/2022	IB	2	F04	faeces	Currumbin	F14	R04	0.23	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TG029_F14	TG029	29	Taggle	25-Jul-21	4/01/2022	IB	2	F05	faeces	Currumbin	F14	R05	0.12	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TG031_F14	TG031	31	Taggle	27-Jul-21	4/01/2022	IB	2	F06	faeces	Currumbin	F14	R06	0.11	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TG054_F15	TG054	54	Taggle	3-Sep-21	21/12/2021	IB	2	G07	faeces	Currumbin	F15	R07	0.21	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TG056_F15	TG056	56	Taggle	5-Sep-21	4/01/2022	IB	2	G08	faeces	Currumbin	F15	R08	0.32	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TG058_F15	TG058	58	Taggle	7-Sep-21	21/12/2021	IB	2	G09	faeces	Currumbin	F15	R09	0.13	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TG060_F15	TG060	60	Taggle	9-Sep-21	4/01/2022	IB	2	G10	faeces	Currumbin	F15	R10	0.25	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TG062_F15	TG062	62	Taggle	11-Sep-21	4/01/2022	IB	2	G11	faeces	Currumbin	F15	R11	0.34	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TG063_F15	TG063	63	Taggle	12-Sep-21	4/01/2022	IB	2	G12	faeces	Currumbin	F15	R12	0.2	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TY027_F02	TY027	27	Tachy	23-Jul-21	30/11/2021	AD	1	B01	faeces	Currumbin	F02	R01	0.42	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TY029_F02	TY029	29	Tachy	25-Jul-21	30/11/2021	IB	1	B02	faeces	Currumbin	F02	R02	0.6	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TY031_F02	TY031	31	Tachy	27-Jul-21	30/11/2021	IB	1	B03	faeces	Currumbin	F02	R03	0.36	Female	Early Gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TY033_F02	TY033	33	Tachy	29-Jul-21	30/11/2021	AD	1	B04	faeces	Currumbin	F02	R04	0.46	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TY035_F02	TY035	35	Tachy	31-Jul-21	30/11/2021	IB	1	B05	faeces	Currumbin	F02	R05	0.42	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+Ext001_F01	Ext001	1	NA	NA	30/11/2021	IB	1	A01	Extraction_Blank	NA	F01	R01	NA	NA	NA	TRUE	FALSE	Yes	NA	N	FALSE
+Ext002_F01	Ext002	2	NA	NA	30/11/2021	AD	1	A02	Extraction_Blank	NA	F01	R02	NA	NA	NA	TRUE	FALSE	Yes	NA	N	FALSE
+Ext003_F03	Ext003	3	NA	NA	13/12/2021	IB	1	C11	Extraction_Blank	NA	F03	R11	NA	NA	NA	TRUE	FALSE	Yes	NA	N	FALSE
+Ext004_F06	Ext004	4	NA	NA	14/12/2021	IB	1	F04	Extraction_Blank	NA	F06	R04	NA	NA	NA	TRUE	FALSE	Yes	NA	N	FALSE
+Ext005_F10	Ext005	5	NA	NA	20/12/2021	IB	2	B09	Extraction_Blank	NA	F10	R09	NA	NA	NA	TRUE	FALSE	Yes	NA	N	FALSE
+Ext006_F10	Ext006	6	NA	NA	20/12/2021	AD	2	B10	Extraction_Blank	NA	F10	R10	NA	NA	NA	TRUE	FALSE	Yes	NA	N	FALSE
+Ext007_F11	Ext007	7	NA	NA	21/12/2021	IB	2	C12	Extraction_Blank	NA	F11	R12	NA	NA	NA	TRUE	FALSE	Yes	NA	Y	FALSE
+Ext008_F13	Ext008	8	NA	NA	4/01/2022	IB	2	E08	Extraction_Blank	NA	F13	R08	NA	NA	NA	TRUE	FALSE	Yes	NA	Y	FALSE
+TY037_F02	TY037	37	Tachy	2-Aug-21	30/11/2021	AD	1	B06	faeces	Currumbin	F02	R06	0.32	Female	Early Gestation	FALSE	FALSE	Yes	No	Y	TRUE
+MN079_F05	MN079	79	Mono	8-Sep-21	13/12/2021	IB	1	E05	faeces	Currumbin	F05	R05	0.21	Female	Incubation	FALSE	FALSE	Yes	No	Y	TRUE
+MN080_F07	MN080	80	Mono	9-Sep-21	14/12/2021	IB	1	G05	faeces	Currumbin	F07	R05	0.31	Female	Incubation	FALSE	FALSE	Yes	No	Y	TRUE
+MN082_F07	MN082	82	Mono	11-Sep-21	14/12/2021	IB	1	G06	faeces	Currumbin	F07	R06	0.2	Female	Incubation	FALSE	FALSE	Yes	No	Y	TRUE
+MN083_F05	MN083	83	Mono	12-Sep-21	13/12/2021	IB	1	E06	faeces	Currumbin	F05	R06	0.24	Female	Incubation	FALSE	FALSE	Yes	No	Y	TRUE
+MN084_F05	MN084	84	Mono	14-Sep-21	13/12/2021	IB	1	E07	faeces	Currumbin	F05	R07	0.21	Female	Incubation	FALSE	FALSE	Yes	No	Y	TRUE
+TG037_F14	TG037	37	Taggle	2-Aug-21	4/01/2022	IB	2	F10	faeces	Currumbin	F14	R10	0.12	Female	Incubation	FALSE	FALSE	Yes	No	Y	TRUE
+TG067_F16	TG067	67	Taggle	17-Sep-21	21/12/2021	IB	2	H04	faeces	Currumbin	F16	R04	0.18	Female	Incubation	FALSE	FALSE	Yes	No	Y	TRUE
+TG068_F16	TG068	68	Taggle	24-Sep-21	4/01/2022	IB	2	H05	faeces	Currumbin	F16	R05	0.09	Female	Incubation	FALSE	FALSE	Yes	No	Y	TRUE
+TG070_F16	TG070	70	Taggle	26-Sep-21	4/01/2022	IB	2	H06	faeces	Currumbin	F16	R06	0.28	Female	Incubation	FALSE	FALSE	Yes	No	Y	TRUE
+TG072_F16	TG072	72	Taggle	28-Sep-21	4/01/2022	IB	2	H07	faeces	Currumbin	F16	R07	0.17	Female	Incubation	FALSE	FALSE	Yes	No	Y	TRUE
+TG074_F16	TG074	74	Taggle	30-Sep-21	4/01/2022	IB	2	H09	faeces	Currumbin	F16	R09	0.24	Female	Incubation	FALSE	FALSE	Yes	No	Y	TRUE
+BY001_F12	BY001	1	Booniny	5-Jun-21	21/12/2021	IB	2	D02	faeces	Currumbin	F12	R02	0.21	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY005_F08	BY005	5	Booniny	10-Jun-21	20/12/2021	IB	1	H02	faeces	Currumbin	F08	R02	0.4	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY009_F12	BY009	9	Booniny	15-Jun-21	21/12/2021	IB	2	D03	faeces	Currumbin	F12	R03	0.16	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY012_F08	BY012	12	Booniny	18-Jun-21	20/12/2021	IB	1	H03	faeces	Currumbin	F08	R03	0.29	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY014_F08	BY014	14	Booniny	20-Jun-21	20/12/2021	IB	1	H04	faeces	Currumbin	F08	R04	0.18	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+BY016_F12	BY016	16	Booniny	22-Jun-21	21/12/2021	IB	2	D04	faeces	Currumbin	F12	R04	0.16	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY018_F12	BY018	18	Booniny	24-Jun-21	21/12/2021	IB	2	D05	faeces	Currumbin	F12	R05	0.18	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY020_F12	BY020	20	Booniny	16-Jul-21	21/12/2021	IB	2	D06	faeces	Currumbin	F12	R06	0.19	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY022_F08	BY022	22	Booniny	18-Jul-21	20/12/2021	IB	1	H05	faeces	Currumbin	F08	R05	0.32	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY042_F09	BY042	42	Booniny	31-Aug-21	20/12/2021	IB	2	A07	faeces	Currumbin	F09	R07	0.18	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY043_F09	BY043	43	Booniny	1-Sep-21	20/12/2021	AD	2	A08	faeces	Currumbin	F09	R08	0.18	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY044_F09	BY044	44	Booniny	3-Sep-21	20/12/2021	IB	2	A09	faeces	Currumbin	F09	R09	0.19	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY045_F09	BY045	45	Booniny	5-Sep-21	20/12/2021	IB	2	A10	faeces	Currumbin	F09	R10	0.18	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY047_F13	BY047	47	Booniny	7-Sep-21	21/12/2021	IB	2	E01	faeces	Currumbin	F13	R01	0.18	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY050_F09	BY050	50	Booniny	9-Sep-21	20/12/2021	IB	2	A11	faeces	Currumbin	F09	R11	0.26	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY052_F09	BY052	52	Booniny	11-Sep-21	20/12/2021	IB	2	A12	faeces	Currumbin	F09	R12	0.38	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+MN020_F03	MN020	20	Mono	15-Jul-21	13/12/2021	IB	1	C12	faeces	Currumbin	F03	R12	0.22	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+MN025_F04	MN025	25	Mono	20-Jul-21	13/12/2021	IB	1	D01	faeces	Currumbin	F04	R01	0.21	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+MN030_F07	MN030	30	Mono	25-Jul-21	14/12/2021	IB	1	G01	faeces	Currumbin	F07	R01	0.17	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+MN035_F04	MN035	35	Mono	31-Jul-21	13/12/2021	IB	1	D02	faeces	Currumbin	F04	R02	0.17	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+MN038_F04	MN038	38	Mono	2-Aug-21	13/12/2021	IB	1	D03	faeces	Currumbin	F04	R03	0.23	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+MN041_F04	MN041	41	Mono	5-Aug-21	13/12/2021	IB	1	D04	faeces	Currumbin	F04	R04	0.2	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+MN044_F04	MN044	44	Mono	8-Aug-21	13/12/2021	IB	1	D05	faeces	Currumbin	F04	R05	0.17	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+MN047_F07	MN047	47	Mono	11-Aug-21	14/12/2021	IB	1	G02	faeces	Currumbin	F07	R02	0.15	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+MN085_F05	MN085	85	Mono	19-Sep-21	13/12/2021	IB	1	E08	faeces	Currumbin	F05	R08	0.22	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+MN089_F07	MN089	89	Mono	23-Sep-21	14/12/2021	IB	1	G07	faeces	Currumbin	F07	R07	0.18	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+MN091_F07	MN091	91	Mono	25-Sep-21	14/12/2021	IB	1	G08	faeces	Currumbin	F07	R08	0.2	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+MN093_F07	MN093	93	Mono	27-Sep-21	14/12/2021	IB	1	G09	faeces	Currumbin	F07	R09	0.28	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+MN097_F05	MN097	97	Mono	1-Oct-21	13/12/2021	IB	1	E09	faeces	Currumbin	F05	R09	0.22	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+MN101_F05	MN101	101	Mono	5-Oct-21	13/12/2021	IB	1	E10	faeces	Currumbin	F05	R10	0.25	Female	Not_breeding	FALSE	FALSE	No	No	Y	TRUE
+MN104_F07	MN104	104	Mono	8-Oct-21	14/12/2021	IB	1	G10	faeces	Currumbin	F07	R10	0.36	Female	Not_breeding	FALSE	FALSE	No	No	Y	TRUE
+TG001_F13	TG001	1	Taggle	5-Jun-21	4/01/2022	IB	2	E09	faeces	Currumbin	F13	R09	0.3	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+TG005_F13	TG005	5	Taggle	10-Jun-21	4/01/2022	IB	2	E10	faeces	Currumbin	F13	R10	0.22	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TG009_F12	TG009	9	Taggle	15-Jun-21	4/01/2022	IB	2	D01	faeces	Currumbin	F12	R01	0.23	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TG010_F01	TG010	10	Taggle	16-Jun-21	4/01/2022	IB	3	A02	faeces	Currumbin	F01	R14	0.22	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TG014_F13	TG014	14	Taggle	20-Jun-21	4/01/2022	IB	2	E11	faeces	Currumbin	F13	R11	0.33	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TG018_F13	TG018	18	Taggle	24-Jun-21	4/01/2022	IB	2	E12	faeces	Currumbin	F13	R12	0.26	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+TG038_F14	TG038	38	Taggle	18-Aug-21	21/12/2021	IB	2	F11	faeces	Currumbin	F14	R11	0.25	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+PCR001_F08	PCR001	NA	NA	NA	NA	NA	1	H12	PCR_Blank	NA	F08	R12	NA	NA	NA	FALSE	TRUE	Yes	NA	N	FALSE
+PCR002_F16	PCR002	NA	NA	NA	NA	NA	2	H08	PCR_Blank	NA	F16	R08	NA	NA	NA	FALSE	TRUE	Yes	NA	Y	FALSE
+PCR003_F01	PCR003	NA	NA	NA	NA	NA	3	A04	PCR_Blank	NA	F01	R16	NA	NA	NA	FALSE	TRUE	Yes	NA	N	FALSE
+TG040_F14	TG040	40	Taggle	20-Aug-21	4/01/2022	IB	2	F12	faeces	Currumbin	F14	R12	0.16	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TG042_F15	TG042	42	Taggle	22-Aug-21	4/01/2022	IB	2	G01	faeces	Currumbin	F15	R01	0.29	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TG044_F15	TG044	44	Taggle	24-Aug-21	21/12/2021	IB	2	G02	faeces	Currumbin	F15	R02	0.15	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TG076_F16	TG076	76	Taggle	2-Oct-21	4/01/2022	IB	2	H10	faeces	Currumbin	F16	R10	0.44	Female	Not_breeding	FALSE	FALSE	No	No	Y	TRUE
+TG078_F16	TG078	78	Taggle	4-Oct-21	4/01/2022	IB	2	H11	faeces	Currumbin	F16	R11	0.31	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+TG080_F16	TG080	80	Taggle	6-Oct-21	4/01/2022	IB	2	H12	faeces	Currumbin	F16	R12	0.33	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+TG082_F01	TG082	82	Taggle	8-Oct-21	4/01/2022	IB	3	A01	faeces	Currumbin	F01	R13	0.24	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+TY001_F01	TY001	1	Tachy	5-Jun-21	30/11/2021	IB	1	A03	faeces	Currumbin	F01	R03	0.26	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY005_F01	TY005	5	Tachy	10-Jun-21	30/11/2021	IB	1	A04	faeces	Currumbin	F01	R04	0.13	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY009_F01	TY009	9	Tachy	15-Jun-21	30/11/2021	IB	1	A05	faeces	Currumbin	F01	R05	0.32	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY014_F01	TY014	14	Tachy	20-Jun-21	30/11/2021	AD	1	A06	faeces	Currumbin	F01	R06	0.32	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY016_F01	TY016	16	Tachy	22-Jun-21	30/11/2021	IB	1	A07	faeces	Currumbin	F01	R07	0.32	Female	Not_breeding	FALSE	FALSE	Yes	Yes	Y	TRUE
+TY018_F01	TY018	18	Tachy	24-Jun-21	30/11/2021	IB	1	A08	faeces	Currumbin	F01	R08	0.42	Female	Not_breeding	FALSE	FALSE	Yes	Yes	Y	TRUE
+TY043_F02	TY043	43	Tachy	18-Aug-21	30/11/2021	IB	1	B09	faeces	Currumbin	F02	R09	0.29	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY045_F02	TY045	45	Tachy	20-Aug-21	30/11/2021	AD	1	B10	faeces	Currumbin	F02	R10	0.32	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY047_F02	TY047	47	Tachy	22-Aug-21	30/11/2021	IB	1	B11	faeces	Currumbin	F02	R11	0.5	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY049_F02	TY049	49	Tachy	24-Aug-21	30/11/2021	IB	1	B12	faeces	Currumbin	F02	R12	0.15	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY053_F03	TY053	53	Tachy	28-Aug-21	30/11/2021	AD	1	C02	faeces	Currumbin	F03	R02	0.52	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY057_F03	TY057	57	Tachy	1-Sep-21	30/11/2021	IB	1	C04	faeces	Currumbin	F03	R04	0.56	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY060_F03	TY060	60	Tachy	5-Sep-21	30/11/2021	IB	1	C05	faeces	Currumbin	F03	R05	0.44	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY065_F03	TY065	65	Tachy	10-Sep-21	30/11/2021	IB	1	C06	faeces	Currumbin	F03	R06	0.14	Female	Not_breeding	FALSE	FALSE	No	Yes	Y	TRUE
+TY070_F03	TY070	70	Tachy	15-Sep-21	30/11/2021	AD	1	C07	faeces	Currumbin	F03	R07	0.31	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY075_F03	TY075	75	Tachy	21-Sep-21	30/11/2021	AD	1	C08	faeces	Currumbin	F03	R08	0.49	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY079_F03	TY079	79	Tachy	25-Sep-21	30/11/2021	IB	1	C09	faeces	Currumbin	F03	R09	0.39	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY084_F03	TY084	84	Tachy	30-Sep-21	30/11/2021	AD	1	C10	faeces	Currumbin	F03	R10	0.43	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+TY089_F03	TY089	89	Tachy	4-Oct-21	30/11/2021	IB	1	C01	faeces	Currumbin	F03	R01	0.4	Female	Not_breeding	FALSE	FALSE	Yes	No	Y	TRUE
+BY024_F08	BY024	24	Booniny	24-Jul-21	20/12/2021	IB	1	H06	faeces	Currumbin	F08	R06	0.38	Female	Pre-gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BY025_F12	BY025	25	Booniny	25-Jul-21	21/12/2021	IB	2	D07	faeces	Currumbin	F12	R07	0.12	Female	Pre-gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BY026_F08	BY026	26	Booniny	26-Jul-21	20/12/2021	IB	1	H07	faeces	Currumbin	F08	R07	0.43	Female	Pre-gestation	FALSE	FALSE	Yes	No	Y	TRUE
+BY027_F09	BY027	27	Booniny	27-Jul-21	4/01/2022	IB	2	A01	faeces	Currumbin	F09	R01	0.23	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY054_F10	BY054	54	Booniny	13-Sep-21	20/12/2021	IB	2	B01	faeces	Currumbin	F10	R01	0.15	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY055_F13	BY055	55	Booniny	15-Sep-21	21/12/2021	IB	2	E02	faeces	Currumbin	F13	R02	0.28	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY057_F10	BY057	57	Booniny	17-Sep-21	20/12/2021	AD	2	B02	faeces	Currumbin	F10	R02	0.4	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BY059_F13	BY059	59	Booniny	19-Sep-21	21/12/2021	IB	2	E03	faeces	Currumbin	F13	R03	0.12	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+MN050_F04	MN050	50	Mono	14-Aug-21	13/12/2021	IB	1	D06	faeces	Currumbin	F04	R06	0.21	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+MN053_F04	MN053	53	Mono	17-Aug-21	13/12/2021	IB	1	D07	faeces	Currumbin	F04	R07	0.22	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+MN059_F04	MN059	59	Mono	19-Aug-21	13/12/2021	IB	1	D08	faeces	Currumbin	F04	R08	0.28	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+MN061_F04	MN061	61	Mono	21-Aug-21	13/12/2021	IB	1	D09	faeces	Currumbin	F04	R09	0.24	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TG019_F14	TG019	19	Taggle	15-Jul-21	4/01/2022	IB	2	F01	faeces	Currumbin	F14	R01	0.28	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TG046_F15	TG046	46	Taggle	26-Aug-21	4/01/2022	IB	2	G03	faeces	Currumbin	F15	R03	0.27	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TG048_F15	TG048	48	Taggle	28-Aug-21	4/01/2022	IB	2	G04	faeces	Currumbin	F15	R04	0.47	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TG050_F15	TG050	50	Taggle	30-Aug-21	4/01/2022	IB	2	G05	faeces	Currumbin	F15	R05	0.31	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TG052_F15	TG052	52	Taggle	1-Sep-21	4/01/2022	IB	2	G06	faeces	Currumbin	F15	R06	0.18	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TY019_F01	TY019	19	Tachy	15-Jul-21	30/11/2021	AD	1	A09	faeces	Currumbin	F01	R09	0.26	Female	Pre-gestation	FALSE	FALSE	Yes	No	Y	TRUE
+TY021_F01	TY021	21	Tachy	17-Jul-21	30/11/2021	AD	1	A10	faeces	Currumbin	F01	R10	0.18	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+TY023_F01	TY023	23	Tachy	19-Jul-21	30/11/2021	AD	1	A11	faeces	Currumbin	F01	R11	0.52	Female	Pre-gestation	FALSE	FALSE	No	Yes	Y	TRUE
+TY025_F01	TY025	25	Tachy	21-Jul-21	30/11/2021	AD	1	A12	faeces	Currumbin	F01	R12	0.36	Female	Pre-gestation	FALSE	FALSE	Yes	Yes	Y	TRUE
+BG041_F06	BG041	41	Ejac	12-Jun-21	14/12/2021	IB	1	F01	faeces	Currumbin	F06	R01	0.1	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+BG044_F06	BG044	44	Ejac	16-Jun-21	14/12/2021	IB	1	F02	faeces	Currumbin	F06	R02	0.17	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+BG047_F06	BG047	47	Ejac	19-Jun-21	14/12/2021	IB	1	F03	faeces	Currumbin	F06	R03	0.24	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+BG051_F07	BG051	51	Bergu	7-Jun-21	20/12/2021	AD	1	G11	faeces	Currumbin	F07	R11	0.26	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+BG057_F07	BG057	57	Bergu	16-Jun-21	20/12/2021	AD	1	G12	faeces	Currumbin	F07	R12	0.27	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+BG060_F08	BG060	60	Bergu	19-Jun-21	20/12/2021	AD	1	H01	faeces	Currumbin	F08	R01	0.25	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+BG063_F05	BG063	63	Bergu	23-Jun-21	14/12/2021	IB	1	E12	faeces	Currumbin	F05	R12	0.22	Male	Male	FALSE	FALSE	No	Yes	Y	TRUE
+EJ037_F10	EJ037	37	Ejac	6-Jun-21	20/12/2021	AD	2	B08	faeces	Currumbin	F10	R08	0.24	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+GD015_F06	GD015	15	Gunduwa	24-Jul-21	14/12/2021	IB	1	F05	faeces	Currumbin	F06	R05	0.22	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+GD016_F10	GD016	16	Gunduwa	25-Jul-21	20/12/2021	AD	2	B11	faeces	Currumbin	F10	R11	0.12	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+GD017_F10	GD017	17	Gunduwa	31-Jul-21	20/12/2021	AD	2	B12	faeces	Currumbin	F10	R12	0.36	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+GD018_F11	GD018	18	Gunduwa	2-Aug-21	20/12/2021	AD	2	C01	faeces	Currumbin	F11	R01	0.22	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+GD019_F06	GD019	19	Gunduwa	15-Aug-21	14/12/2021	IB	1	F06	faeces	Currumbin	F06	R06	0.2	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+GD028_F06	GD028	28	Glow	16-Jun-21	14/12/2021	IB	1	F07	faeces	Currumbin	F06	R07	0.22	Male	Male	FALSE	FALSE	Yes	No	F	TRUE
+GD034_F06	GD034	34	Glow	23-Jun-21	14/12/2021	IB	1	F08	faeces	Currumbin	F06	R08	0.19	Male	Male	FALSE	FALSE	No	Yes	Y	TRUE
+GW021_F11	GW021	21	Glow	6-Jun-21	20/12/2021	AD	2	C02	faeces	Currumbin	F11	R02	0.14	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+GW025_F11	GW025	25	Glow	12-Jun-21	20/12/2021	AD	2	C03	faeces	Currumbin	F11	R03	0.35	Male	Male	FALSE	FALSE	Yes	No	N	TRUE
+GW031_F11	GW031	31	Glow	19-Jun-21	20/12/2021	AD	2	C04	faeces	Currumbin	F11	R04	0.22	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+TY055_F03	TY055	55	Tachy	30-Aug-21	30/11/2021	AD	1	C03	faeces	Currumbin	F03	R03	0.6	Female	Not_breeding	FALSE	FALSE	Yes	No	N	FALSE
+GW035_F11	GW035	35	Glow	2-Aug-21	20/12/2021	AD	2	C05	faeces	Currumbin	F11	R05	0.2	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+HH001_F11	HH001	1	HairyHead	6-Jun-21	20/12/2021	AD	2	C06	faeces	Currumbin	F11	R06	0.16	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+HH004_F06	HH004	4	HairyHead	12-Jun-21	14/12/2021	IB	1	F09	faeces	Currumbin	F06	R09	0.24	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+HH007_F06	HH007	7	HairyHead	16-Jun-21	14/12/2021	IB	1	F10	faeces	Currumbin	F06	R10	0.23	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+HH009_F06	HH009	9	HairyHead	19-Jun-21	14/12/2021	IB	1	F11	faeces	Currumbin	F06	R11	0.24	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+HH013_F11	HH013	13	HairyHead	24-Jul-21	20/12/2021	AD	2	C07	faeces	Currumbin	F11	R07	NA	Male	Male	FALSE	FALSE	No	NA	Y	TRUE
+HH014_F06	HH014	14	HairyHead	25-Jul-21	14/12/2021	IB	1	F12	faeces	Currumbin	F06	R12	0.1	Male	Male	FALSE	FALSE	Yes	No	Y	TRUE
+TG023_F14	TG023	23	Gunduwa	19-Jul-21	4/01/2022	IB	2	F03	faeces	Currumbin	F14	R03	0.22	Male	Male	FALSE	FALSE	No	Yes	Y	TRUE
+WD001_F11	WD001	1	Wild	16-Oct-21	20/12/2021	AD	2	C08	swab	NA	F11	R08	NA	Female	NA	FALSE	FALSE	No	No	Y	FALSE
+WD002_F11	WD002	2	Wild	10-Sep-21	20/12/2021	AD	2	C09	faeces	NA	F11	R09	0.28	Male	NA	FALSE	FALSE	Yes	No	Y	FALSE
+WD003_F11	WD003	3	Wild	11-Aug-21	20/12/2021	AD	2	C10	faeces	NA	F11	R10	0.16	Female	NA	FALSE	FALSE	Yes	No	Y	FALSE
+WD004_F11	WD004	4	Wild	13-Aug-21	20/12/2021	AD	2	C11	faeces	NA	F11	R11	0.3	Male	NA	FALSE	FALSE	Yes	No	Y	FALSE
+ZymoMCExt_F01	ZymoMCExt	NA	NA	NA	NA	NA	3	A03	MockCommunity	NA	F01	R15	NA	NA	NA	FALSE	FALSE	Yes	NA	Y	FALSE
+																					
