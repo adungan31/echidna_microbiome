@@ -35,6 +35,8 @@ All raw data from the Illumina MiSeq run are available under NCBI BioProject ID 
 
    i. 10_most_abundant_ASVs.R
 
+   j. rarefaction_curve.R: This file allows the user to take the downloaded rarefaction curve file from QIIME2 and turn it into a plot in R. There are caveats here: 1) this will only work if you ran the rarefaction curve as shown in the QIIME2 code provided, and 2) all blank spaces in the file need to be replaced with NA. This file came from another project (platypus) but you can replace file names to suit you. 
+
 ## Should you have any questions or find a mistake, please contact Ashley Dungan at **adungan31@gmail.com** 
 
 You are welcome to use this code for any of your research - please reference this GitHub page if you do. 
